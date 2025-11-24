@@ -85,5 +85,5 @@ Key features of this Power BI dashboard:
 
 ### 📌 Dashboard Overview
 
-![Dashboard Overview]()
+![Dashboard Overview](https://github.com/Vijaylaxmivj52/Coffee-Shop-Dashboard-/blob/main/Screenshot%20Of%20Dashboard%201.png)
 
