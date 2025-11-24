@@ -81,9 +81,9 @@ Key features of this Power BI dashboard:
 
  6. Screenshots / Demos
 
-> Replace the image paths with your actual screenshot file names stored in the repo (e.g., in a `screenshots/` or `images/` folder).
 
-### 📌 Dashboard Overview
+
+ Dashboard Overview
 
 ![Dashboard Overview](https://github.com/Vijaylaxmivj52/Coffee-Shop-Dashboard-/blob/main/Screenshot%20Of%20Dashboard%201.png)
 
